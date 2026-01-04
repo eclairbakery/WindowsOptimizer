@@ -1,0 +1,7 @@
+# output
+winoptimizer.exe
+
+# temp files of ide's
+.vscode
+.nvim
+.idea

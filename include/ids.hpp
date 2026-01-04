@@ -1,0 +1,6 @@
+#define GENERATE_ID(unique) unique + 100
+
+#define ID_CHECK_UPDATE  GENERATE_ID(1)
+#define ID_CHECK_TEMP    GENERATE_ID(2)
+#define ID_CHECK_SYSTEM  GENERATE_ID(3)
+#define ID_OPTIMIZE      GENERATE_ID(4)
