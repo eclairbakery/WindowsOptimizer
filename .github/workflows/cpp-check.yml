@@ -17,4 +17,4 @@ jobs:
       uses: ilammy/msvc-dev-cmd@v1
 
     - name: Build
-      run: cl /EHsc main.cpp
+      run: make
